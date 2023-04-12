@@ -1,0 +1,15 @@
+/* Write your CSS here */
+.order {
+  margin-bottom: 16px;
+  list-style-type: none;
+  width: 48px;
+}
+
+button {
+  background-color: #382f5a;
+  color: #c4c4c4;
+  height: 23px;
+  width: 148px;
+  border-radius: 8px;
+  border-width: 0px;
+}
